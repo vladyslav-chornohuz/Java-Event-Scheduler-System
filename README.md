@@ -19,7 +19,7 @@
 - The API is secured using JSON Web Tokens (JWT). To access the API, you will need to obtain a JWT by authenticating with the /login endpoint. The JWT should then be passed in the Authorize option available in the Swagger-UI.
 
   ### Example:
-  - Authorization: <JWT>
+  - Authorization: <your_jwt>
 
 # Technologies:
 - Java 17 or above
